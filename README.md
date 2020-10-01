@@ -31,3 +31,4 @@
 <br />
 
 [twitter]: https://twitter.com/laurynasoffici1
+[linekdin]: https://www.linkedin.com/in/laurynas-naujokas-b7b098154/
